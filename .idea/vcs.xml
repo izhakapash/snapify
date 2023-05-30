@@ -4,5 +4,7 @@
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Blurry-Image-Detector" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/PortraitSegmentation" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/face_recognition" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/insightface" vcs="Git" />
   </component>
 </project>
